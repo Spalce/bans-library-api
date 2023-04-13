@@ -4,12 +4,29 @@
     <projectFile profileName="BansLibraryApi">BansLibraryApi/BansLibraryApi.csproj</projectFile>
     <projectFile profileName="IIS Express">BansLibraryApi/BansLibraryApi.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5140abcd-61af-4f41-9ecb-c9f8cbc6160c" name="Changes" comment="" />
+    <list default="true" id="5140abcd-61af-4f41-9ecb-c9f8cbc6160c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibraryApi/Services/ContactService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BansLibraryApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BansLibraryApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/Debug/net6.0/BansLibraryApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/Debug/net6.0/BansLibraryApi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/940479d9a6d24e5f95e0f3d6ee8f78df200ba0/3f/af7930c8/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
@@ -17,28 +34,35 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2MVqNmct1JyaV2XniCpyGv9jP43" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Spalce\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Spalce\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Spalce\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Spalce\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Spalce\\AppData\\Roaming\\JetBrains\\Rider2023.1\\resharper-host\\SourcesCache",
+      "C:\\Users\\Spalce\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.BansLibraryApi">
     <configuration name="BansLibraryApi" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/BansLibraryApi/BansLibraryApi.csproj" />
@@ -82,15 +106,38 @@
       <workItem from="1677863061319" duration="10289000" />
       <workItem from="1677916832683" duration="13148000" />
       <workItem from="1679436193134" duration="3526000" />
-      <workItem from="1679515511337" duration="4284000" />
+      <workItem from="1679515511337" duration="4581000" />
+      <workItem from="1681341925509" duration="4568000" />
     </task>
+    <task id="LOCAL-00001" summary="app(chore): initial commit">
+      <created>1679520053861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679520053861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="app(chore): initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="app(chore): initial commit" />
   </component>
 </project>
