@@ -1,4 +1,5 @@
 using BansLibraryApi.Data;
+using BansLibraryApi.Interfaces;
 using BansLibraryApi.Services;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,8 +10,8 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(connectionString));
 
-builder.Services.AddScoped<StudentService>();
-builder.Services.AddScoped<CourseService>();
+builder.Services.AddScoped<IStudentService, StudentService>();
+builder.Services.AddScoped<ICourseService, CourseService>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

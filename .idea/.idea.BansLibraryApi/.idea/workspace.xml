@@ -9,11 +9,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5140abcd-61af-4f41-9ecb-c9f8cbc6160c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BansLibraryApi/Services/ContactService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/BansLibrary.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/Interfaces/Repositories/IStaffRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/Interfaces/Services/IStaffService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/Models/Staff.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/Services/StaffService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/BansLibrary.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/BansLibrary.Core.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/BansLibrary.Core.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/Debug/net7.0/BansLibrary.Core.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/Debug/net7.0/BansLibrary.Core.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/Debug/net7.0/BansLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/Debug/net7.0/BansLibrary.Core.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/Debug/net7.0/BansLibrary.Core.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/Debug/net7.0/BansLibrary.Core.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Core/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/BansLibrary.Infrastructure.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/Models/Base.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/Models/Staff.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/Repositories/StaffRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/BansLibrary.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/BansLibrary.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/BansLibrary.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/Debug/net7.0/BansLibrary.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/Debug/net7.0/BansLibrary.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/Debug/net7.0/BansLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/Debug/net7.0/BansLibrary.Infrastructure.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/Debug/net7.0/BansLibrary.Infrastructure.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/Debug/net7.0/BansLibrary.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibrary.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibraryApi/Controllers/StaffsController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibraryApi/Interfaces/ICourseService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BansLibraryApi/Interfaces/IStudentService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BansLibraryApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BansLibraryApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/BansLibraryApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/BansLibraryApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/Controllers/CoursesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/Controllers/CoursesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/Models/Contact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/Models/Contact.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/Models/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/Models/Student.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/Services/CourseService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/Services/CourseService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/Services/StudentService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/Services/StudentService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/BansLibraryApi.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/Debug/net6.0/BansLibraryApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/Debug/net6.0/BansLibraryApi.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/Debug/net6.0/BansLibraryApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/Debug/net6.0/BansLibraryApi.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BansLibraryApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/BansLibraryApi/obj/project.nuget.cache" afterDir="false" />
@@ -29,20 +77,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/940479d9a6d24e5f95e0f3d6ee8f78df200ba0/3f/af7930c8/DbContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/1f6f390bc246f43f64a19835b0d7e69c2d8f7cd17815f5fcbb145b665bab8/IActionResult.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2MVqNmct1JyaV2XniCpyGv9jP43" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -107,7 +158,9 @@
       <workItem from="1677916832683" duration="13148000" />
       <workItem from="1679436193134" duration="3526000" />
       <workItem from="1679515511337" duration="4581000" />
-      <workItem from="1681341925509" duration="4568000" />
+      <workItem from="1681341925509" duration="5487000" />
+      <workItem from="1682026436345" duration="3118000" />
+      <workItem from="1682029660331" duration="1483000" />
     </task>
     <task id="LOCAL-00001" summary="app(chore): initial commit">
       <created>1679520053861</created>
@@ -116,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679520053861</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore(app): Contact Service added with methods">
+      <created>1681346592079</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681346592079</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,8 +196,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="app(chore): initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="app(chore): initial commit" />
+    <MESSAGE value="chore(app): Contact Service added with methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore(app): Contact Service added with methods" />
   </component>
 </project>

@@ -1,10 +1,11 @@
 using BansLibraryApi.Data;
+using BansLibraryApi.Interfaces;
 using BansLibraryApi.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BansLibraryApi.Services;
 
-public class StudentService
+public class StudentService : IStudentService
 {
     private readonly AppDbContext _db;
 
@@ -80,5 +81,10 @@ public class StudentService
             return true;
 
         return false!;
+    }
+
+    public void Dispose()
+    {
+        throw new NotImplementedException();
     }
 }

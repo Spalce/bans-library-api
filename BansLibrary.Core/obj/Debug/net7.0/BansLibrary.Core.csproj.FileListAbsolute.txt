@@ -1,0 +1,12 @@
+D:\APIs\BansLibraryApi\BansLibrary.Core\bin\Debug\net7.0\BansLibrary.Core.deps.json
+D:\APIs\BansLibraryApi\BansLibrary.Core\bin\Debug\net7.0\BansLibrary.Core.dll
+D:\APIs\BansLibraryApi\BansLibrary.Core\bin\Debug\net7.0\BansLibrary.Core.pdb
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\BansLibrary.Core.csproj.AssemblyReference.cache
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\BansLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\BansLibrary.Core.AssemblyInfoInputs.cache
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\BansLibrary.Core.AssemblyInfo.cs
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\BansLibrary.Core.csproj.CoreCompileInputs.cache
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\BansLibrary.Core.dll
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\refint\BansLibrary.Core.dll
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\BansLibrary.Core.pdb
+D:\APIs\BansLibraryApi\BansLibrary.Core\obj\Debug\net7.0\ref\BansLibrary.Core.dll

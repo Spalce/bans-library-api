@@ -1,3 +1,4 @@
+using BansLibraryApi.Interfaces;
 using BansLibraryApi.Models;
 using BansLibraryApi.Services;
 using Microsoft.AspNetCore.Mvc;
@@ -6,9 +7,9 @@ namespace BansLibraryApi.Controllers;
 
 public class CoursesController : Controller
 {
-    private readonly CourseService _courseService;
+    private readonly ICourseService _courseService;
 
-    public CoursesController(CourseService courseService)
+    public CoursesController(ICourseService courseService)
     {
         _courseService = courseService;
     }

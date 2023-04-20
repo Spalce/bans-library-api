@@ -1,10 +1,11 @@
 using BansLibraryApi.Data;
+using BansLibraryApi.Interfaces;
 using BansLibraryApi.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BansLibraryApi.Services;
 
-public class CourseService
+public class CourseService : ICourseService
 {
     private readonly AppDbContext _db;
 

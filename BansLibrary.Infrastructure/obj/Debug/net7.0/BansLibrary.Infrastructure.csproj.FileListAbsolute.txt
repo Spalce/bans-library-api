@@ -1,0 +1,15 @@
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\bin\Debug\net7.0\BansLibrary.Infrastructure.deps.json
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\bin\Debug\net7.0\BansLibrary.Infrastructure.dll
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\bin\Debug\net7.0\BansLibrary.Infrastructure.pdb
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\bin\Debug\net7.0\BansLibrary.Core.dll
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\bin\Debug\net7.0\BansLibrary.Core.pdb
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.csproj.AssemblyReference.cache
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.AssemblyInfoInputs.cache
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.AssemblyInfo.cs
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.csproj.CoreCompileInputs.cache
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.csproj.CopyComplete
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.dll
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\refint\BansLibrary.Infrastructure.dll
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\BansLibrary.Infrastructure.pdb
+D:\APIs\BansLibraryApi\BansLibrary.Infrastructure\obj\Debug\net7.0\ref\BansLibrary.Infrastructure.dll
